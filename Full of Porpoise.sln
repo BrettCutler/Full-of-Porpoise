@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Full of Porpoise.CSharp.Plugins", "Full of Porpoise.CSharp.Plugins.csproj", "{B8D8CD5D-D914-6BA4-A6F4-4EB3616D2FFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Full of Porpoise.CSharp", "Full of Porpoise.CSharp.csproj", "{EEDEDAD5-EB8F-92BB-E1C1-E64A1DB46557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Full of Porpoise.CSharp.Editor", "Full of Porpoise.CSharp.Editor.csproj", "{F2C4587B-C0FD-E145-9555-7512BAD1D6CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D8CD5D-D914-6BA4-A6F4-4EB3616D2FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D8CD5D-D914-6BA4-A6F4-4EB3616D2FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D8CD5D-D914-6BA4-A6F4-4EB3616D2FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D8CD5D-D914-6BA4-A6F4-4EB3616D2FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEDEDAD5-EB8F-92BB-E1C1-E64A1DB46557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDEDAD5-EB8F-92BB-E1C1-E64A1DB46557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDEDAD5-EB8F-92BB-E1C1-E64A1DB46557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDEDAD5-EB8F-92BB-E1C1-E64A1DB46557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C4587B-C0FD-E145-9555-7512BAD1D6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C4587B-C0FD-E145-9555-7512BAD1D6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C4587B-C0FD-E145-9555-7512BAD1D6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C4587B-C0FD-E145-9555-7512BAD1D6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
